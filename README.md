@@ -11,8 +11,7 @@ app-pokemon is an application that allows you to learn more about your favorite 
 Use Git Clone Command [git clone](https://git-scm.com/docs/git-clone) to install app-pokemon.
 
 ```bash
- git clone https://github.com/spizzleayo/knowyourpokemons.git myPokeApp
- cd myPokeApp
+ git clone https://github.com/spizzleayo/knowyourpokemons.git
 ```
 
 ## Contributing
